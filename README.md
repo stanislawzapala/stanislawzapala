@@ -6,6 +6,7 @@
 
 ## General Information
 **Summary**
+
 I am passionate about Modelling, Data Science and Econometrics applied in business environment.
 Curiosity is what defines my approach: I always want to know more, see further, dream bigger.
 
