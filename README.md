@@ -1,4 +1,5 @@
 # Stanisław Zapała
+
 ### Bachelor of Quantitative Methods in Economics and Information Systems (*SGH | Warsaw School of Economics, 2022-Today*)
 
 <!--
