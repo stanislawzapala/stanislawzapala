@@ -2,7 +2,7 @@
 
 - **Bachelor of Quantitative Methods in Economics and Information Systems** (*SGH | Warsaw School of Economics, 2022-Today*)
 - **Bachelor of Data Science | Academic exchange semester** (*ZHAW Zurich University of Applied Sciences | 2024-2025*)
-
+---
 
 ## General Information
 **Summary**
