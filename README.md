@@ -1,6 +1,6 @@
 # Stanisław Zapała
 
-### Bachelor of Quantitative Methods in Economics and Information Systems (*SGH | Warsaw School of Economics, 2022-Today*)
+- Bachelor of Quantitative Methods in Economics and Information Systems (*SGH | Warsaw School of Economics, 2022-Today*)
 
 <!--
 **stanislawzapala/stanislawzapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
