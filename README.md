@@ -28,8 +28,6 @@ In my spare time, a long-time Scout, Troop Leader, to-be Scoutmaster and Polish 
 - German (B2)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 
 <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
 <img src="{https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white}" />
