@@ -26,6 +26,11 @@ In my spare time, a long-time Scout, Troop Leader, to-be Scoutmaster and Polish 
 - Polish (native)
 - English (C2)
 - German (B2)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 <!--
 **stanislawzapala/stanislawzapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
