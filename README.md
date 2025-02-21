@@ -10,7 +10,7 @@ I am passionate about Modelling, Data Science and Econometrics applied in busine
 Curiosity is what defines my approach: I always want to know more, see further, dream bigger.
 
 A third year Quantitive Methods student at SGH Warsaw School of Economics, I broadened my perspective during an academic exchange in Zurich at Zurich University of Applied Sciences. 
-I am develop public speaking and project management skills, privately a startup and teamwork enthusiast.
+I am developing public speaking and project management skills, privately a startup and teamwork enthusiast.
 
 In my spare time, a long-time Scout, Troop Leader, to-be Scoutmaster and Polish Scouts' Commissioner Assistant. Scouting taught me responsibility, taking initiative, self-organisation and above all - the spirit of service.
 
