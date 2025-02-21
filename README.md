@@ -17,6 +17,15 @@ In my spare time, a long-time Scout, Troop Leader, to-be Scoutmaster and Polish 
 **Academic Path**
 1. SGH | Warsaw School of Economics
 2. ZHAW Zurich University of Applied Sciences
+
+**Certificates**
+- Multiple DataCamp Certificates
+- Certificate of Advanced English C2
+
+**Languages**
+- Polish (native)
+- English (C2)
+- German (B2)
 <!--
 **stanislawzapala/stanislawzapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
